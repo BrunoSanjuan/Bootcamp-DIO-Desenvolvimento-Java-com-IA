@@ -24,9 +24,9 @@ public class SmartTv {
         canal--;
     }
 
-    public void escolherCanal() {
-        System.out.println("Trocando de canal...");
-        canal = 8;
+    public void escolherCanal(int novoCanal) {
+        System.out.println("Trocando para canal selecionado...");
+        canal = novoCanal;
     }
 
     public void diminuirVolume() {

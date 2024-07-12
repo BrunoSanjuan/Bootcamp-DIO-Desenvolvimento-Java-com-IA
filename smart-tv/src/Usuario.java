@@ -25,5 +25,9 @@ public class Usuario {
         smartTv.diminuirVolume();
         smartTv.diminuirVolume();
         System.out.println("Em qual volume está: " + smartTv.volume);
+
+        // Mudar para o canal selecionado especificamente
+        smartTv.escolherCanal(8);
+        System.out.println(smartTv.canal);
     }
 }
