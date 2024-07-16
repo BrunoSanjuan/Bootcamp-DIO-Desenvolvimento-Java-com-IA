@@ -1,7 +1,7 @@
 public class AboutMe {
     public static void main(String[] args) {
 
-        /* Execute em seu CMD indo para este diretório dos arquivo ---> Argumentos\bin> 
+        /* Execute em seu CMD indo para este diretório dos arquivo ---> Argumentos(diretório deste script)\bin> 
         Estando no cd Argumentos\bin> podemos utilizar os comandos a seguir: ---> java AboutMe BRUNO SANJUAN 27 1.71
         Teremos a seguinte saída abaixo: 
         Olá, me chamo BRUNO SANJUAN
