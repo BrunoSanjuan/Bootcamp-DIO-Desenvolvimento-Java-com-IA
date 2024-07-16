@@ -24,7 +24,7 @@ public class SmartTv {
         canal--;
     }
 
-    public void escolherCanal(int novoCanal) {
+    public void escolherCanal(int novoCanal) { // novoCanal só é acessível no método escolherCanal, porque esta somente dentro deste escopo.
         System.out.println("Trocando para canal selecionado...");
         canal = novoCanal;
     }
