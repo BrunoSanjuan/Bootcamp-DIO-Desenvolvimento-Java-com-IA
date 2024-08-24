@@ -1,9 +1,38 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
 tipos-variaveis/.vscode/settings.json
 metodos/.vscode/settings.json
 smart-tv/.vscode/settings.json
 smart-tv/src/SmartTv.java
 Argumentos/.vscode/settings.json
-smart-tv/src/SmartTv.java
 Utilizando_Scanner/.vscode/settings.json
 Break_And_Continue/.vscode/settings.json
 ExceçõesTryCatch/.vscode/settings.json
